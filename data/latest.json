@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2024-12-07T09:39:52.094Z",
+  "lastUpdate": "2024-12-07T09:41:08.505Z",
   "data": {
     "bookings": [
       {
@@ -1181,8 +1181,8 @@
         "guests": 1,
         "nationality": "Non specificato",
         "channel": "Diretta",
-        "totalGross": 35,
-        "totalNet": 35,
+        "totalGross": 0,
+        "totalNet": 0,
         "extraCleaning": 0
       },
       {
