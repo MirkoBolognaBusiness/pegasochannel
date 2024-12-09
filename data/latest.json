@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2024-12-09T14:22:53.929Z",
+  "lastUpdate": "2024-12-09T14:24:14.314Z",
   "data": {
     "bookings": [
       {
@@ -12,7 +12,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 198.42,
-        "totalNet": 0,
+        "totalNet": 159.72,
         "extraCleaning": 0
       },
       {
@@ -25,7 +25,7 @@
         "nationality": "RU",
         "channel": "Booking",
         "totalGross": 242,
-        "totalNet": 0,
+        "totalNet": 194.81,
         "extraCleaning": 0
       },
       {
@@ -38,7 +38,7 @@
         "nationality": "HN",
         "channel": "Airbnb",
         "totalGross": 136,
-        "totalNet": 0,
+        "totalNet": 115.6,
         "extraCleaning": 0
       },
       {
@@ -51,7 +51,7 @@
         "nationality": "MX",
         "channel": "Booking",
         "totalGross": 78.73,
-        "totalNet": 0,
+        "totalNet": 63.38,
         "extraCleaning": 0
       },
       {
@@ -64,7 +64,7 @@
         "nationality": "MX",
         "channel": "Booking",
         "totalGross": 162,
-        "totalNet": 0,
+        "totalNet": 130.41,
         "extraCleaning": 0
       },
       {
@@ -77,7 +77,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 154,
-        "totalNet": 0,
+        "totalNet": 123.97,
         "extraCleaning": 0
       },
       {
@@ -90,7 +90,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 126.32,
-        "totalNet": 0,
+        "totalNet": 101.69,
         "extraCleaning": 0
       },
       {
@@ -103,7 +103,7 @@
         "nationality": "KZ",
         "channel": "Booking",
         "totalGross": 167.14,
-        "totalNet": 0,
+        "totalNet": 134.54,
         "extraCleaning": 0
       },
       {
@@ -116,7 +116,7 @@
         "nationality": "MX",
         "channel": "Booking",
         "totalGross": 133.2,
-        "totalNet": 0,
+        "totalNet": 107.22,
         "extraCleaning": 0
       },
       {
@@ -129,7 +129,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 156.59,
-        "totalNet": 0,
+        "totalNet": 126.05,
         "extraCleaning": 0
       },
       {
@@ -142,7 +142,7 @@
         "nationality": "GE",
         "channel": "Booking",
         "totalGross": 117.38,
-        "totalNet": 0,
+        "totalNet": 94.49,
         "extraCleaning": 0
       },
       {
@@ -155,7 +155,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 91.06,
-        "totalNet": 0,
+        "totalNet": 73.3,
         "extraCleaning": 0
       },
       {
@@ -168,7 +168,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 289,
-        "totalNet": 0,
+        "totalNet": 245.65,
         "extraCleaning": 0
       },
       {
@@ -181,7 +181,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 199,
-        "totalNet": 0,
+        "totalNet": 169.15,
         "extraCleaning": 0
       },
       {
@@ -194,7 +194,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 232.02,
-        "totalNet": 0,
+        "totalNet": 186.78,
         "extraCleaning": 0
       },
       {
@@ -207,7 +207,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 251.18,
-        "totalNet": 0,
+        "totalNet": 202.2,
         "extraCleaning": 0
       },
       {
@@ -220,7 +220,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 177.96,
-        "totalNet": 0,
+        "totalNet": 143.26,
         "extraCleaning": 0
       },
       {
@@ -233,7 +233,7 @@
         "nationality": "CH",
         "channel": "Booking",
         "totalGross": 153.86,
-        "totalNet": 0,
+        "totalNet": 123.86,
         "extraCleaning": 0
       },
       {
@@ -246,7 +246,7 @@
         "nationality": "BR",
         "channel": "Booking",
         "totalGross": 355.2,
-        "totalNet": 0,
+        "totalNet": 285.93,
         "extraCleaning": 0
       },
       {
@@ -259,7 +259,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 248.64,
-        "totalNet": 0,
+        "totalNet": 200.15,
         "extraCleaning": 0
       },
       {
@@ -272,7 +272,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 228,
-        "totalNet": 0,
+        "totalNet": 183.54,
         "extraCleaning": 0
       },
       {
@@ -285,7 +285,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 725.85,
-        "totalNet": 0,
+        "totalNet": 584.31,
         "extraCleaning": 0
       },
       {
@@ -298,7 +298,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 388,
-        "totalNet": 0,
+        "totalNet": 329.8,
         "extraCleaning": 0
       },
       {
@@ -311,7 +311,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 155,
-        "totalNet": 0,
+        "totalNet": 131.75,
         "extraCleaning": 0
       },
       {
@@ -324,7 +324,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 161,
-        "totalNet": 0,
+        "totalNet": 136.85,
         "extraCleaning": 0
       },
       {
@@ -337,7 +337,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 179.84,
-        "totalNet": 0,
+        "totalNet": 144.77,
         "extraCleaning": 0
       },
       {
@@ -350,7 +350,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 249.96,
-        "totalNet": 0,
+        "totalNet": 201.22,
         "extraCleaning": 0
       },
       {
@@ -363,7 +363,7 @@
         "nationality": "ES",
         "channel": "Airbnb",
         "totalGross": 123,
-        "totalNet": 0,
+        "totalNet": 104.55,
         "extraCleaning": 0
       },
       {
@@ -376,7 +376,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 193.6,
-        "totalNet": 0,
+        "totalNet": 155.85,
         "extraCleaning": 0
       },
       {
@@ -389,7 +389,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 148.57,
-        "totalNet": 0,
+        "totalNet": 148.57,
         "extraCleaning": 0
       },
       {
@@ -402,7 +402,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 93.95,
-        "totalNet": 0,
+        "totalNet": 75.63,
         "extraCleaning": 0
       },
       {
@@ -415,7 +415,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 90,
-        "totalNet": 0,
+        "totalNet": 90,
         "extraCleaning": 0
       },
       {
@@ -428,7 +428,7 @@
         "nationality": "DZ",
         "channel": "Booking",
         "totalGross": 147.2,
-        "totalNet": 0,
+        "totalNet": 118.49,
         "extraCleaning": 0
       },
       {
@@ -441,7 +441,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 192.34,
-        "totalNet": 0,
+        "totalNet": 154.83,
         "extraCleaning": 0
       },
       {
@@ -454,7 +454,7 @@
         "nationality": "RO",
         "channel": "Booking",
         "totalGross": 423.82,
-        "totalNet": 0,
+        "totalNet": 341.17,
         "extraCleaning": 0
       },
       {
@@ -480,7 +480,7 @@
         "nationality": "PT",
         "channel": "Booking",
         "totalGross": 231.65,
-        "totalNet": 0,
+        "totalNet": 186.48,
         "extraCleaning": 0
       },
       {
@@ -493,7 +493,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 204.79,
-        "totalNet": 0,
+        "totalNet": 164.86,
         "extraCleaning": 0
       },
       {
@@ -506,7 +506,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 207.31,
-        "totalNet": 0,
+        "totalNet": 166.88,
         "extraCleaning": 0
       },
       {
@@ -519,7 +519,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 166.98,
-        "totalNet": 0,
+        "totalNet": 134.42,
         "extraCleaning": 0
       },
       {
@@ -532,7 +532,7 @@
         "nationality": "AU",
         "channel": "Airbnb",
         "totalGross": 192,
-        "totalNet": 0,
+        "totalNet": 163.2,
         "extraCleaning": 0
       },
       {
@@ -545,7 +545,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 220.53,
-        "totalNet": 0,
+        "totalNet": 177.52,
         "extraCleaning": 0
       },
       {
@@ -558,7 +558,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 393.96,
-        "totalNet": 0,
+        "totalNet": 317.14,
         "extraCleaning": 0
       },
       {
@@ -571,7 +571,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 467,
-        "totalNet": 0,
+        "totalNet": 396.95,
         "extraCleaning": 0
       },
       {
@@ -584,7 +584,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 186.5,
-        "totalNet": 0,
+        "totalNet": 150.13,
         "extraCleaning": 0
       },
       {
@@ -597,7 +597,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 152.48,
-        "totalNet": 0,
+        "totalNet": 122.74,
         "extraCleaning": 0
       },
       {
@@ -610,7 +610,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 429.96,
-        "totalNet": 0,
+        "totalNet": 346.12,
         "extraCleaning": 0
       },
       {
@@ -623,7 +623,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 51,
-        "totalNet": 0,
+        "totalNet": 51,
         "extraCleaning": 0
       },
       {
@@ -636,7 +636,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 81.98,
-        "totalNet": 0,
+        "totalNet": 65.99,
         "extraCleaning": 0
       },
       {
@@ -649,7 +649,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 223.55,
-        "totalNet": 0,
+        "totalNet": 179.96,
         "extraCleaning": 0
       },
       {
@@ -662,7 +662,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 168.64,
-        "totalNet": 0,
+        "totalNet": 135.75,
         "extraCleaning": 0
       },
       {
@@ -675,7 +675,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 188.11,
-        "totalNet": 0,
+        "totalNet": 151.43,
         "extraCleaning": 0
       },
       {
@@ -688,7 +688,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 181.13,
-        "totalNet": 0,
+        "totalNet": 181.13,
         "extraCleaning": 0
       },
       {
@@ -701,7 +701,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 89.46,
-        "totalNet": 0,
+        "totalNet": 72.02,
         "extraCleaning": 0
       },
       {
@@ -714,7 +714,7 @@
         "nationality": "AU",
         "channel": "Airbnb",
         "totalGross": 120,
-        "totalNet": 0,
+        "totalNet": 102,
         "extraCleaning": 0
       },
       {
@@ -727,7 +727,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 161.92,
-        "totalNet": 0,
+        "totalNet": 130.34,
         "extraCleaning": 0
       },
       {
@@ -740,7 +740,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 250,
-        "totalNet": 0,
+        "totalNet": 201.25,
         "extraCleaning": 0
       },
       {
@@ -753,7 +753,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 174.73,
-        "totalNet": 0,
+        "totalNet": 140.66,
         "extraCleaning": 0
       },
       {
@@ -766,7 +766,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 556.27,
-        "totalNet": 0,
+        "totalNet": 556.27,
         "extraCleaning": 0
       },
       {
@@ -779,7 +779,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 192.93,
-        "totalNet": 0,
+        "totalNet": 155.31,
         "extraCleaning": 0
       },
       {
@@ -792,7 +792,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 199.14,
-        "totalNet": 0,
+        "totalNet": 171.03,
         "extraCleaning": 0
       },
       {
@@ -805,7 +805,7 @@
         "nationality": "TR",
         "channel": "Booking",
         "totalGross": 123.64,
-        "totalNet": 0,
+        "totalNet": 99.53,
         "extraCleaning": 0
       },
       {
@@ -818,7 +818,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 319.88,
-        "totalNet": 0,
+        "totalNet": 257.5,
         "extraCleaning": 0
       },
       {
@@ -831,7 +831,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 112.68,
-        "totalNet": 0,
+        "totalNet": 112.68,
         "extraCleaning": 0
       },
       {
@@ -844,7 +844,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 253,
-        "totalNet": 0,
+        "totalNet": 253,
         "extraCleaning": 0
       },
       {
@@ -857,7 +857,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 306.42,
-        "totalNet": 0,
+        "totalNet": 246.66,
         "extraCleaning": 0
       },
       {
@@ -870,7 +870,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 200.66,
-        "totalNet": 0,
+        "totalNet": 161.53,
         "extraCleaning": 0
       },
       {
@@ -883,7 +883,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 180,
-        "totalNet": 0,
+        "totalNet": 180,
         "extraCleaning": 0
       },
       {
@@ -896,7 +896,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 1838,
-        "totalNet": 0,
+        "totalNet": 1838,
         "extraCleaning": 0
       },
       {
@@ -909,7 +909,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 62,
-        "totalNet": 0,
+        "totalNet": 62,
         "extraCleaning": 0
       },
       {
@@ -922,7 +922,7 @@
         "nationality": "VN",
         "channel": "Booking",
         "totalGross": 154,
-        "totalNet": 0,
+        "totalNet": 123.97,
         "extraCleaning": 0
       },
       {
@@ -935,7 +935,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 487,
-        "totalNet": 0,
+        "totalNet": 413.95,
         "extraCleaning": 0
       },
       {
@@ -948,7 +948,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 367.87,
-        "totalNet": 0,
+        "totalNet": 296.13,
         "extraCleaning": 0
       },
       {
@@ -961,7 +961,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 264.91,
-        "totalNet": 0,
+        "totalNet": 213.26,
         "extraCleaning": 0
       },
       {
@@ -974,7 +974,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 203.03,
-        "totalNet": 0,
+        "totalNet": 163.43,
         "extraCleaning": 0
       },
       {
@@ -987,7 +987,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 605.62,
-        "totalNet": 0,
+        "totalNet": 487.53,
         "extraCleaning": 0
       },
       {
@@ -1000,7 +1000,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 282.46,
-        "totalNet": 0,
+        "totalNet": 227.38,
         "extraCleaning": 0
       },
       {
@@ -1013,7 +1013,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 120.38,
-        "totalNet": 0,
+        "totalNet": 120.38,
         "extraCleaning": 0
       },
       {
@@ -1026,7 +1026,7 @@
         "nationality": "ES",
         "channel": "Airbnb",
         "totalGross": 236,
-        "totalNet": 0,
+        "totalNet": 200.6,
         "extraCleaning": 0
       },
       {
@@ -1039,7 +1039,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 167.4,
-        "totalNet": 0,
+        "totalNet": 134.76,
         "extraCleaning": 0
       },
       {
@@ -1052,7 +1052,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 267.55,
-        "totalNet": 0,
+        "totalNet": 215.38,
         "extraCleaning": 0
       },
       {
@@ -1065,7 +1065,7 @@
         "nationality": "CO",
         "channel": "Booking",
         "totalGross": 128.4,
-        "totalNet": 0,
+        "totalNet": 103.36,
         "extraCleaning": 0
       },
       {
@@ -1078,7 +1078,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 310,
-        "totalNet": 0,
+        "totalNet": 277,
         "extraCleaning": 0
       },
       {
@@ -1091,7 +1091,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 203.99,
-        "totalNet": 0,
+        "totalNet": 164.21,
         "extraCleaning": 0
       },
       {
@@ -1104,7 +1104,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 235.66,
-        "totalNet": 0,
+        "totalNet": 189.71,
         "extraCleaning": 0
       },
       {
@@ -1117,7 +1117,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 352.79,
-        "totalNet": 0,
+        "totalNet": 284,
         "extraCleaning": 0
       },
       {
@@ -1130,7 +1130,7 @@
         "nationality": "TR",
         "channel": "Booking",
         "totalGross": 237.13,
-        "totalNet": 0,
+        "totalNet": 190.89,
         "extraCleaning": 0
       },
       {
@@ -1143,7 +1143,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 313.36,
-        "totalNet": 0,
+        "totalNet": 252.26,
         "extraCleaning": 0
       },
       {
@@ -1156,7 +1156,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 411.78,
-        "totalNet": 0,
+        "totalNet": 331.48,
         "extraCleaning": 0
       },
       {
@@ -1182,7 +1182,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 112.32,
-        "totalNet": 0,
+        "totalNet": 90.42,
         "extraCleaning": 0
       },
       {
@@ -1195,7 +1195,7 @@
         "nationality": "DE",
         "channel": "Airbnb",
         "totalGross": 166,
-        "totalNet": 0,
+        "totalNet": 166,
         "extraCleaning": 0
       },
       {
@@ -1208,7 +1208,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 135.15,
-        "totalNet": 0,
+        "totalNet": 108.79,
         "extraCleaning": 0
       },
       {
@@ -1221,7 +1221,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 62,
-        "totalNet": 0,
+        "totalNet": 62,
         "extraCleaning": 0
       },
       {
@@ -1234,7 +1234,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 205.32,
-        "totalNet": 0,
+        "totalNet": 165.28,
         "extraCleaning": 0
       },
       {
@@ -1247,7 +1247,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 208,
-        "totalNet": 0,
+        "totalNet": 167.44,
         "extraCleaning": 0
       },
       {
@@ -1260,7 +1260,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 254.35,
-        "totalNet": 0,
+        "totalNet": 204.75,
         "extraCleaning": 0
       },
       {
@@ -1273,7 +1273,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 330.3,
-        "totalNet": 0,
+        "totalNet": 330.3,
         "extraCleaning": 0
       },
       {
@@ -1286,7 +1286,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 254.66,
-        "totalNet": 0,
+        "totalNet": 205,
         "extraCleaning": 0
       },
       {
@@ -1299,7 +1299,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 310.08,
-        "totalNet": 0,
+        "totalNet": 249.62,
         "extraCleaning": 0
       },
       {
@@ -1312,7 +1312,7 @@
         "nationality": "SG",
         "channel": "Booking",
         "totalGross": 281.45,
-        "totalNet": 0,
+        "totalNet": 226.57,
         "extraCleaning": 0
       },
       {
@@ -1325,7 +1325,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 214.83,
-        "totalNet": 0,
+        "totalNet": 183.66,
         "extraCleaning": 0
       },
       {
@@ -1338,7 +1338,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 195.52,
-        "totalNet": 0,
+        "totalNet": 157.4,
         "extraCleaning": 0
       },
       {
@@ -1351,7 +1351,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 250.24,
-        "totalNet": 0,
+        "totalNet": 201.45,
         "extraCleaning": 0
       },
       {
@@ -1364,7 +1364,7 @@
         "nationality": "AL",
         "channel": "Booking",
         "totalGross": 121.74,
-        "totalNet": 0,
+        "totalNet": 98,
         "extraCleaning": 0
       },
       {
@@ -1377,7 +1377,7 @@
         "nationality": "SA",
         "channel": "Booking",
         "totalGross": 234.72,
-        "totalNet": 0,
+        "totalNet": 188.95,
         "extraCleaning": 0
       },
       {
@@ -1403,7 +1403,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 253.8,
-        "totalNet": 0,
+        "totalNet": 253.8,
         "extraCleaning": 0
       },
       {
@@ -1416,7 +1416,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 291.06,
-        "totalNet": 0,
+        "totalNet": 234.3,
         "extraCleaning": 0
       },
       {
@@ -1429,7 +1429,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 205.37,
-        "totalNet": 0,
+        "totalNet": 165.32,
         "extraCleaning": 0
       },
       {
@@ -1442,7 +1442,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 176.65,
-        "totalNet": 0,
+        "totalNet": 142.2,
         "extraCleaning": 0
       },
       {
@@ -1455,7 +1455,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 494,
-        "totalNet": 0,
+        "totalNet": 419.9,
         "extraCleaning": 0
       },
       {
@@ -1481,7 +1481,7 @@
         "nationality": "ES",
         "channel": "Airbnb",
         "totalGross": 123,
-        "totalNet": 0,
+        "totalNet": 104.55,
         "extraCleaning": 0
       },
       {
@@ -1494,7 +1494,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 168.5,
-        "totalNet": 0,
+        "totalNet": 135.64,
         "extraCleaning": 0
       },
       {
@@ -1507,7 +1507,7 @@
         "nationality": "CR",
         "channel": "Booking",
         "totalGross": 207.62,
-        "totalNet": 0,
+        "totalNet": 167.14,
         "extraCleaning": 0
       },
       {
@@ -1520,7 +1520,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 236.35,
-        "totalNet": 0,
+        "totalNet": 190.26,
         "extraCleaning": 0
       },
       {
@@ -1533,7 +1533,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 267.71,
-        "totalNet": 0,
+        "totalNet": 215.5,
         "extraCleaning": 0
       },
       {
@@ -1546,7 +1546,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 162.96,
-        "totalNet": 0,
+        "totalNet": 131.19,
         "extraCleaning": 0
       },
       {
@@ -1559,7 +1559,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 290.7,
-        "totalNet": 0,
+        "totalNet": 234.01,
         "extraCleaning": 0
       },
       {
@@ -1572,7 +1572,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 352.91,
-        "totalNet": 0,
+        "totalNet": 284.1,
         "extraCleaning": 0
       },
       {
@@ -1585,7 +1585,7 @@
         "nationality": "RE",
         "channel": "Airbnb",
         "totalGross": 422,
-        "totalNet": 0,
+        "totalNet": 358.7,
         "extraCleaning": 0
       },
       {
@@ -1598,7 +1598,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 497.08,
-        "totalNet": 0,
+        "totalNet": 400.15,
         "extraCleaning": 0
       },
       {
@@ -1611,7 +1611,7 @@
         "nationality": "CO",
         "channel": "Airbnb",
         "totalGross": 150,
-        "totalNet": 0,
+        "totalNet": 127.5,
         "extraCleaning": 0
       },
       {
@@ -1624,7 +1624,7 @@
         "nationality": "BR",
         "channel": "Booking",
         "totalGross": 176.94,
-        "totalNet": 0,
+        "totalNet": 153.16,
         "extraCleaning": 0
       },
       {
@@ -1637,7 +1637,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 293,
-        "totalNet": 0,
+        "totalNet": 249.05,
         "extraCleaning": 0
       },
       {
@@ -1650,7 +1650,7 @@
         "nationality": "MT",
         "channel": "Booking",
         "totalGross": 170.96,
-        "totalNet": 0,
+        "totalNet": 137.63,
         "extraCleaning": 0
       },
       {
@@ -1663,7 +1663,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 237.4,
-        "totalNet": 0,
+        "totalNet": 191.11,
         "extraCleaning": 0
       },
       {
@@ -1676,7 +1676,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 227.8,
-        "totalNet": 0,
+        "totalNet": 183.38,
         "extraCleaning": 0
       },
       {
@@ -1689,7 +1689,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 72,
-        "totalNet": 0,
+        "totalNet": 72,
         "extraCleaning": 0
       },
       {
@@ -1702,7 +1702,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 72,
-        "totalNet": 0,
+        "totalNet": 72,
         "extraCleaning": 0
       },
       {
@@ -1715,7 +1715,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 258.93,
-        "totalNet": 0,
+        "totalNet": 208.44,
         "extraCleaning": 0
       },
       {
@@ -1728,7 +1728,7 @@
         "nationality": "BR",
         "channel": "Booking",
         "totalGross": 286.35,
-        "totalNet": 0,
+        "totalNet": 230.51,
         "extraCleaning": 0
       },
       {
@@ -1741,7 +1741,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 225.62,
-        "totalNet": 0,
+        "totalNet": 225.62,
         "extraCleaning": 0
       },
       {
@@ -1754,7 +1754,7 @@
         "nationality": "AR",
         "channel": "Airbnb",
         "totalGross": 361,
-        "totalNet": 0,
+        "totalNet": 306.85,
         "extraCleaning": 0
       },
       {
@@ -1767,7 +1767,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 134.08,
-        "totalNet": 0,
+        "totalNet": 107.94,
         "extraCleaning": 0
       },
       {
@@ -1780,7 +1780,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 162.15,
-        "totalNet": 0,
+        "totalNet": 130.53,
         "extraCleaning": 0
       },
       {
@@ -1793,7 +1793,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 137.65,
-        "totalNet": 0,
+        "totalNet": 110.81,
         "extraCleaning": 0
       },
       {
@@ -1806,7 +1806,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 116.12,
-        "totalNet": 0,
+        "totalNet": 93.48,
         "extraCleaning": 0
       },
       {
@@ -1819,7 +1819,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 158.28,
-        "totalNet": 0,
+        "totalNet": 127.42,
         "extraCleaning": 0
       },
       {
@@ -1832,7 +1832,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 240.86,
-        "totalNet": 0,
+        "totalNet": 193.9,
         "extraCleaning": 0
       },
       {
@@ -1845,7 +1845,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 350.6,
-        "totalNet": 0,
+        "totalNet": 282.23,
         "extraCleaning": 0
       },
       {
@@ -1858,7 +1858,7 @@
         "nationality": "TR",
         "channel": "Booking",
         "totalGross": 158.23,
-        "totalNet": 0,
+        "totalNet": 127.38,
         "extraCleaning": 0
       },
       {
@@ -1871,7 +1871,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 142.99,
-        "totalNet": 0,
+        "totalNet": 115.11,
         "extraCleaning": 0
       },
       {
@@ -1884,7 +1884,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 198.5,
-        "totalNet": 0,
+        "totalNet": 198.5,
         "extraCleaning": 0
       },
       {
@@ -1897,7 +1897,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 257.8,
-        "totalNet": 0,
+        "totalNet": 207.53,
         "extraCleaning": 0
       },
       {
@@ -1910,7 +1910,7 @@
         "nationality": "KZ",
         "channel": "Booking",
         "totalGross": 287.24,
-        "totalNet": 0,
+        "totalNet": 231.23,
         "extraCleaning": 0
       },
       {
@@ -1923,7 +1923,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 78.22,
-        "totalNet": 0,
+        "totalNet": 62.97,
         "extraCleaning": 0
       },
       {
@@ -1936,7 +1936,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 235.74,
-        "totalNet": 0,
+        "totalNet": 189.77,
         "extraCleaning": 0
       },
       {
@@ -1949,7 +1949,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 216.56,
-        "totalNet": 0,
+        "totalNet": 174.33,
         "extraCleaning": 0
       },
       {
@@ -1962,7 +1962,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 499.9,
-        "totalNet": 0,
+        "totalNet": 402.42,
         "extraCleaning": 0
       },
       {
@@ -1975,7 +1975,7 @@
         "nationality": "BR",
         "channel": "Airbnb",
         "totalGross": 199,
-        "totalNet": 0,
+        "totalNet": 169.15,
         "extraCleaning": 0
       },
       {
@@ -1988,7 +1988,7 @@
         "nationality": "AT",
         "channel": "Airbnb",
         "totalGross": 816,
-        "totalNet": 0,
+        "totalNet": 693.6,
         "extraCleaning": 0
       },
       {
@@ -2001,7 +2001,7 @@
         "nationality": "AL",
         "channel": "Booking",
         "totalGross": 226.99,
-        "totalNet": 0,
+        "totalNet": 182.73,
         "extraCleaning": 0
       },
       {
@@ -2014,7 +2014,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 344.04,
-        "totalNet": 0,
+        "totalNet": 276.95,
         "extraCleaning": 0
       },
       {
@@ -2027,7 +2027,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 351.49,
-        "totalNet": 0,
+        "totalNet": 282.95,
         "extraCleaning": 0
       },
       {
@@ -2040,7 +2040,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 379.13,
-        "totalNet": 0,
+        "totalNet": 305.2,
         "extraCleaning": 0
       },
       {
@@ -2053,7 +2053,7 @@
         "nationality": "AU",
         "channel": "Booking",
         "totalGross": 539.81,
-        "totalNet": 0,
+        "totalNet": 434.54,
         "extraCleaning": 0
       },
       {
@@ -2066,7 +2066,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 170.64,
-        "totalNet": 0,
+        "totalNet": 137.36,
         "extraCleaning": 0
       },
       {
@@ -2079,7 +2079,7 @@
         "nationality": "CA",
         "channel": "Booking",
         "totalGross": 199.9,
-        "totalNet": 0,
+        "totalNet": 160.92,
         "extraCleaning": 0
       },
       {
@@ -2092,7 +2092,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 174.18,
-        "totalNet": 0,
+        "totalNet": 150.94,
         "extraCleaning": 0
       },
       {
@@ -2105,7 +2105,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 383.44,
-        "totalNet": 0,
+        "totalNet": 308.67,
         "extraCleaning": 0
       },
       {
@@ -2118,7 +2118,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 265.05,
-        "totalNet": 0,
+        "totalNet": 213.36,
         "extraCleaning": 0
       },
       {
@@ -2131,7 +2131,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 107.34,
-        "totalNet": 0,
+        "totalNet": 107.34,
         "extraCleaning": 0
       },
       {
@@ -2144,7 +2144,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 255.21,
-        "totalNet": 0,
+        "totalNet": 205.44,
         "extraCleaning": 0
       },
       {
@@ -2157,7 +2157,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 146.77,
-        "totalNet": 0,
+        "totalNet": 118.15,
         "extraCleaning": 0
       },
       {
@@ -2170,7 +2170,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 217.77,
-        "totalNet": 0,
+        "totalNet": 175.3,
         "extraCleaning": 0
       },
       {
@@ -2183,7 +2183,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 176.63,
-        "totalNet": 0,
+        "totalNet": 142.19,
         "extraCleaning": 0
       },
       {
@@ -2196,7 +2196,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 312.1,
-        "totalNet": 0,
+        "totalNet": 312.1,
         "extraCleaning": 0
       },
       {
@@ -2209,7 +2209,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 150.37,
-        "totalNet": 0,
+        "totalNet": 121.04,
         "extraCleaning": 0
       },
       {
@@ -2222,7 +2222,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 199.93,
-        "totalNet": 0,
+        "totalNet": 160.94,
         "extraCleaning": 0
       },
       {
@@ -2235,7 +2235,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 143.13,
-        "totalNet": 0,
+        "totalNet": 115.22,
         "extraCleaning": 0
       },
       {
@@ -2248,7 +2248,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 303.07,
-        "totalNet": 0,
+        "totalNet": 243.97,
         "extraCleaning": 0
       },
       {
@@ -2261,7 +2261,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 178.79,
-        "totalNet": 0,
+        "totalNet": 143.93,
         "extraCleaning": 0
       },
       {
@@ -2274,7 +2274,7 @@
         "nationality": "HK",
         "channel": "Booking",
         "totalGross": 242.65,
-        "totalNet": 0,
+        "totalNet": 195.33,
         "extraCleaning": 0
       },
       {
@@ -2287,7 +2287,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 161.63,
-        "totalNet": 0,
+        "totalNet": 130.12,
         "extraCleaning": 0
       },
       {
@@ -2300,7 +2300,7 @@
         "nationality": "MX",
         "channel": "Booking",
         "totalGross": 199.87,
-        "totalNet": 0,
+        "totalNet": 160.89,
         "extraCleaning": 0
       },
       {
@@ -2313,7 +2313,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 208.29,
-        "totalNet": 0,
+        "totalNet": 167.68,
         "extraCleaning": 0
       },
       {
@@ -2326,7 +2326,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 228.02,
-        "totalNet": 0,
+        "totalNet": 183.56,
         "extraCleaning": 0
       },
       {
@@ -2339,7 +2339,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 200,
-        "totalNet": 0,
+        "totalNet": 183.5,
         "extraCleaning": 0
       },
       {
@@ -2352,7 +2352,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 230.03,
-        "totalNet": 0,
+        "totalNet": 185.17,
         "extraCleaning": 0
       },
       {
@@ -2365,7 +2365,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 210.18,
-        "totalNet": 0,
+        "totalNet": 179.92,
         "extraCleaning": 0
       },
       {
@@ -2378,7 +2378,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 244.32,
-        "totalNet": 0,
+        "totalNet": 211.11,
         "extraCleaning": 0
       },
       {
@@ -2391,7 +2391,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 277.47,
-        "totalNet": 0,
+        "totalNet": 223.37,
         "extraCleaning": 0
       },
       {
@@ -2404,7 +2404,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 202.03,
-        "totalNet": 0,
+        "totalNet": 162.63,
         "extraCleaning": 0
       },
       {
@@ -2417,7 +2417,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 291.2,
-        "totalNet": 0,
+        "totalNet": 291.2,
         "extraCleaning": 0
       },
       {
@@ -2430,7 +2430,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 136,
-        "totalNet": 0,
+        "totalNet": 109.48,
         "extraCleaning": 0
       },
       {
@@ -2443,7 +2443,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 196.02,
-        "totalNet": 0,
+        "totalNet": 157.8,
         "extraCleaning": 0
       },
       {
@@ -2456,7 +2456,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 132.47,
-        "totalNet": 0,
+        "totalNet": 106.64,
         "extraCleaning": 0
       },
       {
@@ -2469,7 +2469,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 196.76,
-        "totalNet": 0,
+        "totalNet": 158.39,
         "extraCleaning": 0
       },
       {
@@ -2482,7 +2482,7 @@
         "nationality": "BR",
         "channel": "Booking",
         "totalGross": 171.01,
-        "totalNet": 0,
+        "totalNet": 137.66,
         "extraCleaning": 0
       },
       {
@@ -2495,7 +2495,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 186,
-        "totalNet": 0,
+        "totalNet": 158.1,
         "extraCleaning": 0
       },
       {
@@ -2508,7 +2508,7 @@
         "nationality": "AR",
         "channel": "Airbnb",
         "totalGross": 168,
-        "totalNet": 0,
+        "totalNet": 142.8,
         "extraCleaning": 0
       },
       {
@@ -2521,7 +2521,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 133.71,
-        "totalNet": 0,
+        "totalNet": 107.63,
         "extraCleaning": 0
       },
       {
@@ -2534,7 +2534,7 @@
         "nationality": "GB",
         "channel": "Airbnb",
         "totalGross": 152,
-        "totalNet": 0,
+        "totalNet": 129.2,
         "extraCleaning": 0
       },
       {
@@ -2547,7 +2547,7 @@
         "nationality": "PL",
         "channel": "Booking",
         "totalGross": 143.97,
-        "totalNet": 0,
+        "totalNet": 115.9,
         "extraCleaning": 0
       },
       {
@@ -2560,7 +2560,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 214.17,
-        "totalNet": 0,
+        "totalNet": 172.41,
         "extraCleaning": 0
       },
       {
@@ -2573,7 +2573,7 @@
         "nationality": "GR",
         "channel": "Booking",
         "totalGross": 195.5,
-        "totalNet": 0,
+        "totalNet": 157.38,
         "extraCleaning": 0
       },
       {
@@ -2586,7 +2586,7 @@
         "nationality": "CZ",
         "channel": "Booking",
         "totalGross": 204.23,
-        "totalNet": 0,
+        "totalNet": 164.41,
         "extraCleaning": 0
       },
       {
@@ -2599,7 +2599,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 195.54,
-        "totalNet": 0,
+        "totalNet": 157.41,
         "extraCleaning": 0
       },
       {
@@ -2612,7 +2612,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 239.66,
-        "totalNet": 0,
+        "totalNet": 192.93,
         "extraCleaning": 0
       },
       {
@@ -2625,7 +2625,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 132.29,
-        "totalNet": 0,
+        "totalNet": 117.22,
         "extraCleaning": 0
       },
       {
@@ -2638,7 +2638,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 217.7,
-        "totalNet": 0,
+        "totalNet": 175.24,
         "extraCleaning": 0
       },
       {
@@ -2651,7 +2651,7 @@
         "nationality": "DE",
         "channel": "Booking",
         "totalGross": 325.68,
-        "totalNet": 0,
+        "totalNet": 262.17,
         "extraCleaning": 0
       },
       {
@@ -2664,7 +2664,7 @@
         "nationality": "US",
         "channel": "Booking",
         "totalGross": 168.5,
-        "totalNet": 0,
+        "totalNet": 135.64,
         "extraCleaning": 0
       },
       {
@@ -2677,7 +2677,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 180.62,
-        "totalNet": 0,
+        "totalNet": 145.4,
         "extraCleaning": 0
       },
       {
@@ -2690,7 +2690,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 194.09,
-        "totalNet": 0,
+        "totalNet": 156.24,
         "extraCleaning": 0
       },
       {
@@ -2703,7 +2703,7 @@
         "nationality": "SA",
         "channel": "Airbnb",
         "totalGross": 663,
-        "totalNet": 0,
+        "totalNet": 563.55,
         "extraCleaning": 0
       },
       {
@@ -2729,7 +2729,7 @@
         "nationality": "DE",
         "channel": "Booking",
         "totalGross": 196.18,
-        "totalNet": 0,
+        "totalNet": 157.93,
         "extraCleaning": 0
       },
       {
@@ -2742,7 +2742,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 135.6,
-        "totalNet": 0,
+        "totalNet": 109.16,
         "extraCleaning": 0
       },
       {
@@ -2755,7 +2755,7 @@
         "nationality": "AL",
         "channel": "Booking",
         "totalGross": 185.84,
-        "totalNet": 0,
+        "totalNet": 149.6,
         "extraCleaning": 0
       },
       {
@@ -2768,7 +2768,7 @@
         "nationality": "CA",
         "channel": "Booking",
         "totalGross": 286.87,
-        "totalNet": 0,
+        "totalNet": 230.93,
         "extraCleaning": 0
       },
       {
@@ -2781,7 +2781,7 @@
         "nationality": "DE",
         "channel": "Booking",
         "totalGross": 103.35,
-        "totalNet": 0,
+        "totalNet": 83.2,
         "extraCleaning": 0
       },
       {
@@ -2794,7 +2794,7 @@
         "nationality": "ES",
         "channel": "Airbnb",
         "totalGross": 224,
-        "totalNet": 0,
+        "totalNet": 190.4,
         "extraCleaning": 0
       },
       {
@@ -2807,7 +2807,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 197.31,
-        "totalNet": 0,
+        "totalNet": 158.83,
         "extraCleaning": 0
       },
       {
@@ -2820,7 +2820,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 226.02,
-        "totalNet": 0,
+        "totalNet": 181.95,
         "extraCleaning": 0
       },
       {
@@ -2833,7 +2833,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 161.22,
-        "totalNet": 0,
+        "totalNet": 129.78,
         "extraCleaning": 0
       },
       {
@@ -2846,7 +2846,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 215.14,
-        "totalNet": 0,
+        "totalNet": 173.18,
         "extraCleaning": 0
       },
       {
@@ -2859,7 +2859,7 @@
         "nationality": "FI",
         "channel": "Booking",
         "totalGross": 297.47,
-        "totalNet": 0,
+        "totalNet": 239.47,
         "extraCleaning": 0
       },
       {
@@ -2872,7 +2872,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 209.96,
-        "totalNet": 0,
+        "totalNet": 169.02,
         "extraCleaning": 0
       },
       {
@@ -2885,7 +2885,7 @@
         "nationality": "FR",
         "channel": "Airbnb",
         "totalGross": 250,
-        "totalNet": 0,
+        "totalNet": 212.5,
         "extraCleaning": 0
       },
       {
@@ -2898,7 +2898,7 @@
         "nationality": "SG",
         "channel": "Booking",
         "totalGross": 250.25,
-        "totalNet": 0,
+        "totalNet": 201.45,
         "extraCleaning": 0
       },
       {
@@ -2911,7 +2911,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 100.28,
-        "totalNet": 0,
+        "totalNet": 100.28,
         "extraCleaning": 0
       },
       {
@@ -2924,7 +2924,7 @@
         "nationality": "NL",
         "channel": "Booking",
         "totalGross": 337.24,
-        "totalNet": 0,
+        "totalNet": 271.48,
         "extraCleaning": 0
       },
       {
@@ -2937,7 +2937,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 186.91,
-        "totalNet": 0,
+        "totalNet": 161.19,
         "extraCleaning": 0
       },
       {
@@ -2950,7 +2950,7 @@
         "nationality": "NL",
         "channel": "Booking",
         "totalGross": 99.91,
-        "totalNet": 0,
+        "totalNet": 80.43,
         "extraCleaning": 0
       },
       {
@@ -2963,7 +2963,7 @@
         "nationality": "NL",
         "channel": "Booking",
         "totalGross": 154.26,
-        "totalNet": 0,
+        "totalNet": 124.18,
         "extraCleaning": 0
       },
       {
@@ -2976,7 +2976,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 171.94,
-        "totalNet": 0,
+        "totalNet": 138.41,
         "extraCleaning": 0
       },
       {
@@ -2989,7 +2989,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 100,
-        "totalNet": 0,
+        "totalNet": 100,
         "extraCleaning": 0
       },
       {
@@ -3002,7 +3002,7 @@
         "nationality": "SE",
         "channel": "Booking",
         "totalGross": 161.86,
-        "totalNet": 0,
+        "totalNet": 130.3,
         "extraCleaning": 0
       },
       {
@@ -3015,7 +3015,7 @@
         "nationality": "GR",
         "channel": "Booking",
         "totalGross": 173.03,
-        "totalNet": 0,
+        "totalNet": 139.28,
         "extraCleaning": 0
       },
       {
@@ -3028,7 +3028,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 289.98,
-        "totalNet": 0,
+        "totalNet": 233.43,
         "extraCleaning": 0
       },
       {
@@ -3041,7 +3041,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 363.75,
-        "totalNet": 0,
+        "totalNet": 292.82,
         "extraCleaning": 0
       },
       {
@@ -3054,7 +3054,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 304.7,
-        "totalNet": 0,
+        "totalNet": 304.7,
         "extraCleaning": 0
       },
       {
@@ -3067,7 +3067,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 632.14,
-        "totalNet": 0,
+        "totalNet": 508.87,
         "extraCleaning": 0
       },
       {
@@ -3080,7 +3080,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 321.29,
-        "totalNet": 0,
+        "totalNet": 258.64,
         "extraCleaning": 0
       },
       {
@@ -3093,7 +3093,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 297.18,
-        "totalNet": 0,
+        "totalNet": 239.23,
         "extraCleaning": 0
       },
       {
@@ -3106,7 +3106,7 @@
         "nationality": "CH",
         "channel": "Booking",
         "totalGross": 256.06,
-        "totalNet": 0,
+        "totalNet": 206.13,
         "extraCleaning": 0
       },
       {
@@ -3119,7 +3119,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 177.23,
-        "totalNet": 0,
+        "totalNet": 142.67,
         "extraCleaning": 0
       },
       {
@@ -3132,7 +3132,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 335,
-        "totalNet": 0,
+        "totalNet": 284.75,
         "extraCleaning": 0
       },
       {
@@ -3145,7 +3145,7 @@
         "nationality": "AU",
         "channel": "Booking",
         "totalGross": 208.93,
-        "totalNet": 0,
+        "totalNet": 168.19,
         "extraCleaning": 0
       },
       {
@@ -3158,7 +3158,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 249.79,
-        "totalNet": 0,
+        "totalNet": 201.08,
         "extraCleaning": 0
       },
       {
@@ -3171,7 +3171,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 919,
-        "totalNet": 0,
+        "totalNet": 781.15,
         "extraCleaning": 0
       },
       {
@@ -3184,7 +3184,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 211.43,
-        "totalNet": 0,
+        "totalNet": 180.92,
         "extraCleaning": 0
       },
       {
@@ -3197,7 +3197,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 235.22,
-        "totalNet": 0,
+        "totalNet": 189.35,
         "extraCleaning": 0
       },
       {
@@ -3210,7 +3210,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 294.29,
-        "totalNet": 0,
+        "totalNet": 236.91,
         "extraCleaning": 0
       },
       {
@@ -3223,7 +3223,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 214.79,
-        "totalNet": 0,
+        "totalNet": 172.91,
         "extraCleaning": 0
       },
       {
@@ -3236,7 +3236,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 277.09,
-        "totalNet": 0,
+        "totalNet": 223.05,
         "extraCleaning": 0
       },
       {
@@ -3249,7 +3249,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 251.44,
-        "totalNet": 0,
+        "totalNet": 251.44,
         "extraCleaning": 0
       },
       {
@@ -3262,7 +3262,7 @@
         "nationality": "MX",
         "channel": "Booking",
         "totalGross": 355.36,
-        "totalNet": 0,
+        "totalNet": 286.07,
         "extraCleaning": 0
       },
       {
@@ -3275,7 +3275,7 @@
         "nationality": "NO",
         "channel": "Booking",
         "totalGross": 230.66,
-        "totalNet": 0,
+        "totalNet": 185.68,
         "extraCleaning": 0
       },
       {
@@ -3288,7 +3288,7 @@
         "nationality": "HR",
         "channel": "Airbnb",
         "totalGross": 242,
-        "totalNet": 0,
+        "totalNet": 205.7,
         "extraCleaning": 0
       },
       {
@@ -3301,7 +3301,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 236.06,
-        "totalNet": 0,
+        "totalNet": 190.03,
         "extraCleaning": 0
       },
       {
@@ -3314,7 +3314,7 @@
         "nationality": "GB",
         "channel": "Booking",
         "totalGross": 164.19,
-        "totalNet": 0,
+        "totalNet": 132.18,
         "extraCleaning": 0
       },
       {
@@ -3327,7 +3327,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 286.07,
-        "totalNet": 0,
+        "totalNet": 230.29,
         "extraCleaning": 0
       },
       {
@@ -3340,7 +3340,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 242.12,
-        "totalNet": 0,
+        "totalNet": 194.91,
         "extraCleaning": 0
       },
       {
@@ -3353,7 +3353,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 210.56,
-        "totalNet": 0,
+        "totalNet": 169.5,
         "extraCleaning": 0
       },
       {
@@ -3366,7 +3366,7 @@
         "nationality": "KR",
         "channel": "Booking",
         "totalGross": 332.14,
-        "totalNet": 0,
+        "totalNet": 267.37,
         "extraCleaning": 0
       },
       {
@@ -3379,7 +3379,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 220.67,
-        "totalNet": 0,
+        "totalNet": 177.64,
         "extraCleaning": 0
       },
       {
@@ -3392,7 +3392,7 @@
         "nationality": "US",
         "channel": "Booking",
         "totalGross": 133.28,
-        "totalNet": 0,
+        "totalNet": 107.29,
         "extraCleaning": 0
       },
       {
@@ -3405,7 +3405,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 295.3,
-        "totalNet": 0,
+        "totalNet": 237.72,
         "extraCleaning": 0
       },
       {
@@ -3418,7 +3418,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 266.62,
-        "totalNet": 0,
+        "totalNet": 214.63,
         "extraCleaning": 0
       },
       {
@@ -3431,7 +3431,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 500.28,
-        "totalNet": 0,
+        "totalNet": 402.73,
         "extraCleaning": 0
       },
       {
@@ -3444,7 +3444,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 280.91,
-        "totalNet": 0,
+        "totalNet": 226.14,
         "extraCleaning": 0
       },
       {
@@ -3457,7 +3457,7 @@
         "nationality": "BR",
         "channel": "Booking",
         "totalGross": 490.78,
-        "totalNet": 0,
+        "totalNet": 395.08,
         "extraCleaning": 0
       },
       {
@@ -3470,7 +3470,7 @@
         "nationality": "US",
         "channel": "Airbnb",
         "totalGross": 7200,
-        "totalNet": 0,
+        "totalNet": 6120,
         "extraCleaning": 0
       },
       {
@@ -3483,7 +3483,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 334.73,
-        "totalNet": 0,
+        "totalNet": 269.46,
         "extraCleaning": 0
       },
       {
@@ -3496,7 +3496,7 @@
         "nationality": "CZ",
         "channel": "Booking",
         "totalGross": 470.54,
-        "totalNet": 0,
+        "totalNet": 378.78,
         "extraCleaning": 0
       },
       {
@@ -3509,7 +3509,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 230.09,
-        "totalNet": 0,
+        "totalNet": 230.09,
         "extraCleaning": 0
       },
       {
@@ -3522,7 +3522,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 236.55,
-        "totalNet": 0,
+        "totalNet": 190.42,
         "extraCleaning": 0
       },
       {
@@ -3535,7 +3535,7 @@
         "nationality": "CN",
         "channel": "Booking",
         "totalGross": 215.71,
-        "totalNet": 0,
+        "totalNet": 173.64,
         "extraCleaning": 0
       },
       {
@@ -3548,7 +3548,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 413.31,
-        "totalNet": 0,
+        "totalNet": 332.71,
         "extraCleaning": 0
       },
       {
@@ -3561,7 +3561,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 169.9,
-        "totalNet": 0,
+        "totalNet": 169.9,
         "extraCleaning": 0
       },
       {
@@ -3574,7 +3574,7 @@
         "nationality": "CZ",
         "channel": "Booking",
         "totalGross": 835.8,
-        "totalNet": 0,
+        "totalNet": 672.82,
         "extraCleaning": 0
       },
       {
@@ -3587,7 +3587,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 420,
-        "totalNet": 0,
+        "totalNet": 370.5,
         "extraCleaning": 0
       },
       {
@@ -3600,7 +3600,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 225.02,
-        "totalNet": 0,
+        "totalNet": 181.14,
         "extraCleaning": 0
       },
       {
@@ -3613,7 +3613,7 @@
         "nationality": "PL",
         "channel": "Booking",
         "totalGross": 560.12,
-        "totalNet": 0,
+        "totalNet": 450.9,
         "extraCleaning": 0
       },
       {
@@ -3626,7 +3626,7 @@
         "nationality": "IN",
         "channel": "Booking",
         "totalGross": 591.89,
-        "totalNet": 0,
+        "totalNet": 476.47,
         "extraCleaning": 0
       },
       {
@@ -3639,7 +3639,7 @@
         "nationality": "DE",
         "channel": "Booking",
         "totalGross": 359.73,
-        "totalNet": 0,
+        "totalNet": 300.31,
         "extraCleaning": 0
       },
       {
@@ -3652,7 +3652,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 456.22,
-        "totalNet": 0,
+        "totalNet": 367.26,
         "extraCleaning": 0
       },
       {
@@ -3665,7 +3665,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 237.61,
-        "totalNet": 0,
+        "totalNet": 191.28,
         "extraCleaning": 0
       },
       {
@@ -3678,7 +3678,7 @@
         "nationality": "TN",
         "channel": "Booking",
         "totalGross": 722.87,
-        "totalNet": 0,
+        "totalNet": 581.91,
         "extraCleaning": 0
       },
       {
@@ -3691,7 +3691,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 1630.95,
-        "totalNet": 0,
+        "totalNet": 1312.92,
         "extraCleaning": 0
       },
       {
@@ -3704,7 +3704,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 139.82,
-        "totalNet": 0,
+        "totalNet": 139.82,
         "extraCleaning": 0
       },
       {
@@ -3717,7 +3717,7 @@
         "nationality": "CH",
         "channel": "Booking",
         "totalGross": 439.53,
-        "totalNet": 0,
+        "totalNet": 353.82,
         "extraCleaning": 0
       },
       {
@@ -3730,7 +3730,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 269.68,
-        "totalNet": 0,
+        "totalNet": 217.09,
         "extraCleaning": 0
       },
       {
@@ -3743,7 +3743,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 457.53,
-        "totalNet": 0,
+        "totalNet": 368.31,
         "extraCleaning": 0
       },
       {
@@ -3756,7 +3756,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 305.8,
-        "totalNet": 0,
+        "totalNet": 305.8,
         "extraCleaning": 0
       },
       {
@@ -3769,7 +3769,7 @@
         "nationality": "TN",
         "channel": "Booking",
         "totalGross": 722.87,
-        "totalNet": 0,
+        "totalNet": 581.91,
         "extraCleaning": 0
       },
       {
@@ -3782,7 +3782,7 @@
         "nationality": "US",
         "channel": "Booking",
         "totalGross": 491.72,
-        "totalNet": 0,
+        "totalNet": 395.83,
         "extraCleaning": 0
       },
       {
@@ -3795,7 +3795,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 568.69,
-        "totalNet": 0,
+        "totalNet": 457.8,
         "extraCleaning": 0
       },
       {
@@ -3808,7 +3808,7 @@
         "nationality": "DE",
         "channel": "Airbnb",
         "totalGross": 200,
-        "totalNet": 0,
+        "totalNet": 183.5,
         "extraCleaning": 0
       },
       {
@@ -3821,7 +3821,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 145.94,
-        "totalNet": 0,
+        "totalNet": 145.94,
         "extraCleaning": 0
       },
       {
@@ -3834,7 +3834,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 872.75,
-        "totalNet": 0,
+        "totalNet": 702.57,
         "extraCleaning": 0
       },
       {
@@ -3847,7 +3847,7 @@
         "nationality": "AR",
         "channel": "Booking",
         "totalGross": 1076.46,
-        "totalNet": 0,
+        "totalNet": 866.55,
         "extraCleaning": 0
       },
       {
@@ -3860,7 +3860,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 472.14,
-        "totalNet": 0,
+        "totalNet": 380.07,
         "extraCleaning": 0
       },
       {
@@ -3873,7 +3873,7 @@
         "nationality": "PH",
         "channel": "Booking",
         "totalGross": 799.25,
-        "totalNet": 0,
+        "totalNet": 643.39,
         "extraCleaning": 0
       },
       {
@@ -3886,7 +3886,7 @@
         "nationality": "PH",
         "channel": "Booking",
         "totalGross": 730.67,
-        "totalNet": 0,
+        "totalNet": 588.19,
         "extraCleaning": 0
       },
       {
@@ -3899,7 +3899,7 @@
         "nationality": "FR",
         "channel": "Booking",
         "totalGross": 727.8,
-        "totalNet": 0,
+        "totalNet": 585.88,
         "extraCleaning": 0
       },
       {
@@ -3912,7 +3912,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 888.47,
-        "totalNet": 0,
+        "totalNet": 715.22,
         "extraCleaning": 0
       },
       {
@@ -3925,7 +3925,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 529.12,
-        "totalNet": 0,
+        "totalNet": 425.94,
         "extraCleaning": 0
       },
       {
@@ -3938,7 +3938,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 935.55,
-        "totalNet": 0,
+        "totalNet": 935.55,
         "extraCleaning": 0
       },
       {
@@ -3951,7 +3951,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 271.85,
-        "totalNet": 0,
+        "totalNet": 271.85,
         "extraCleaning": 0
       },
       {
@@ -3964,7 +3964,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 1369.6,
-        "totalNet": 0,
+        "totalNet": 1102.53,
         "extraCleaning": 0
       },
       {
@@ -3977,7 +3977,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 1756.37,
-        "totalNet": 0,
+        "totalNet": 1413.87,
         "extraCleaning": 0
       },
       {
@@ -3990,7 +3990,7 @@
         "nationality": "CO",
         "channel": "Airbnb",
         "totalGross": 310,
-        "totalNet": 0,
+        "totalNet": 277,
         "extraCleaning": 0
       },
       {
@@ -4003,7 +4003,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 679.37,
-        "totalNet": 0,
+        "totalNet": 546.89,
         "extraCleaning": 0
       },
       {
@@ -4016,7 +4016,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 720.66,
-        "totalNet": 0,
+        "totalNet": 580.13,
         "extraCleaning": 0
       },
       {
@@ -4029,7 +4029,7 @@
         "nationality": "ZA",
         "channel": "Booking",
         "totalGross": 1190.15,
-        "totalNet": 0,
+        "totalNet": 958.07,
         "extraCleaning": 0
       },
       {
@@ -4042,7 +4042,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 1391.54,
-        "totalNet": 0,
+        "totalNet": 1120.19,
         "extraCleaning": 0
       },
       {
@@ -4055,7 +4055,7 @@
         "nationality": "AU",
         "channel": "Booking",
         "totalGross": 1604.61,
-        "totalNet": 0,
+        "totalNet": 1291.71,
         "extraCleaning": 0
       },
       {
@@ -4068,7 +4068,7 @@
         "nationality": "MX",
         "channel": "Booking",
         "totalGross": 737.55,
-        "totalNet": 0,
+        "totalNet": 604.45,
         "extraCleaning": 0
       },
       {
@@ -4081,7 +4081,7 @@
         "nationality": "AU",
         "channel": "Booking",
         "totalGross": 160.7,
-        "totalNet": 0,
+        "totalNet": 129.68,
         "extraCleaning": 0
       },
       {
@@ -4094,7 +4094,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 1515.71,
-        "totalNet": 0,
+        "totalNet": 1220.14,
         "extraCleaning": 0
       },
       {
@@ -4107,7 +4107,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 1432.3,
-        "totalNet": 0,
+        "totalNet": 1153.01,
         "extraCleaning": 0
       },
       {
@@ -4120,7 +4120,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 1018.69,
-        "totalNet": 0,
+        "totalNet": 820.05,
         "extraCleaning": 0
       },
       {
@@ -4133,7 +4133,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 1309.96,
-        "totalNet": 0,
+        "totalNet": 1054.52,
         "extraCleaning": 0
       },
       {
@@ -4146,7 +4146,7 @@
         "nationality": "SG",
         "channel": "Airbnb",
         "totalGross": 310,
-        "totalNet": 0,
+        "totalNet": 277,
         "extraCleaning": 0
       },
       {
@@ -4159,7 +4159,7 @@
         "nationality": "ES",
         "channel": "Booking",
         "totalGross": 1150.79,
-        "totalNet": 0,
+        "totalNet": 926.39,
         "extraCleaning": 0
       },
       {
@@ -4172,7 +4172,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 1022.58,
-        "totalNet": 0,
+        "totalNet": 823.18,
         "extraCleaning": 0
       },
       {
@@ -4185,7 +4185,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 221.18,
-        "totalNet": 0,
+        "totalNet": 221.18,
         "extraCleaning": 0
       },
       {
@@ -4198,7 +4198,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 901.83,
-        "totalNet": 0,
+        "totalNet": 725.97,
         "extraCleaning": 0
       },
       {
@@ -4211,7 +4211,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 213,
-        "totalNet": 0,
+        "totalNet": 213,
         "extraCleaning": 0
       },
       {
@@ -4224,7 +4224,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 912.89,
-        "totalNet": 0,
+        "totalNet": 734.88,
         "extraCleaning": 0
       },
       {
@@ -4237,7 +4237,7 @@
         "nationality": "Non specificato",
         "channel": "Diretta",
         "totalGross": 259,
-        "totalNet": 0,
+        "totalNet": 259,
         "extraCleaning": 0
       },
       {
@@ -4250,7 +4250,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 838.78,
-        "totalNet": 0,
+        "totalNet": 675.22,
         "extraCleaning": 0
       },
       {
@@ -4263,7 +4263,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 872.88,
-        "totalNet": 0,
+        "totalNet": 702.67,
         "extraCleaning": 0
       },
       {
@@ -4276,7 +4276,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 948.89,
-        "totalNet": 0,
+        "totalNet": 763.86,
         "extraCleaning": 0
       },
       {
@@ -4289,7 +4289,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 1215.72,
-        "totalNet": 0,
+        "totalNet": 978.65,
         "extraCleaning": 0
       },
       {
@@ -4302,7 +4302,7 @@
         "nationality": "NO",
         "channel": "Airbnb",
         "totalGross": 200,
-        "totalNet": 0,
+        "totalNet": 183.5,
         "extraCleaning": 0
       },
       {
@@ -4315,7 +4315,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 1025.82,
-        "totalNet": 0,
+        "totalNet": 825.78,
         "extraCleaning": 0
       },
       {
@@ -4328,7 +4328,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 1149,
-        "totalNet": 0,
+        "totalNet": 991.5,
         "extraCleaning": 0
       },
       {
@@ -4341,7 +4341,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 754.74,
-        "totalNet": 0,
+        "totalNet": 618.29,
         "extraCleaning": 0
       },
       {
@@ -4354,7 +4354,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 221.9,
-        "totalNet": 0,
+        "totalNet": 221.9,
         "extraCleaning": 0
       },
       {
@@ -4367,7 +4367,7 @@
         "nationality": "BR",
         "channel": "Booking",
         "totalGross": 1034.19,
-        "totalNet": 0,
+        "totalNet": 832.53,
         "extraCleaning": 0
       },
       {
@@ -4380,7 +4380,7 @@
         "nationality": "Non specificato",
         "channel": "Booking",
         "totalGross": 900,
-        "totalNet": 0,
+        "totalNet": 900,
         "extraCleaning": 0
       },
       {
@@ -4393,7 +4393,7 @@
         "nationality": "IT",
         "channel": "Booking",
         "totalGross": 966.82,
-        "totalNet": 0,
+        "totalNet": 778.29,
         "extraCleaning": 0
       },
       {
@@ -4406,7 +4406,7 @@
         "nationality": "IT",
         "channel": "Airbnb",
         "totalGross": 678,
-        "totalNet": 0,
+        "totalNet": 588,
         "extraCleaning": 0
       }
     ],
